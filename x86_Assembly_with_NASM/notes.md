@@ -17,15 +17,3 @@
 - Memory
 - I/O Devices
 
-
-
-hello there and aksdj
-0we
-
-
-
-people;
-shiva;
-shiva reddy;
-shivareddy;
-
