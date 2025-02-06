@@ -2,6 +2,7 @@
 ;
 ; Data types
 ;
+; nasm -f elf -o first.o first.asm && ld -m elf_i386 -o first first.o && ./first
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 section .data
