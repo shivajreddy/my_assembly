@@ -22,3 +22,9 @@ _start:
         MOV eax,1
         INT 80h
 
+  
+  "" 
+  
+  󰕈 
+  
+
