@@ -21,3 +21,4 @@ _start:
   MOV eax,1
   INT 80h       ; sys call to stop by return with value thats inside 'eax'
 
+
